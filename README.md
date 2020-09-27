@@ -13,3 +13,14 @@ So I fine-tuned GPT-2 on a bunch of psychedelic reports on Erowid
 ## Next Steps
 
 Exploring Fabrice Bellard's [Text Synth](https://bellard.org/textsynth/), which is quite fast at GPT-2 inference without GPUs
+
+## How to Run
+
+### Python 3 Requirements
+* aitextgen 
+* transformers==2.9.1
+* pytorch-lightning==0.8.4
+
+Once you have those modules installed: 
+* Download `pytorch_model.bin` [here](https://drive.google.com/file/d/1wMf6qgIWTOxx2e4F9wjQv5UUYSLkjJqp/view?usp=sharing) into the `model` folder
+* Run `python app.py` to run Flask app and see generated texts

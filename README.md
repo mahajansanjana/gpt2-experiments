@@ -1,7 +1,7 @@
 # gpt2-experiments
 
 So I fine-tuned GPT-2 on a bunch of psychedelic reports on Erowid 
-(Ideally I'd have this running on the cloud somewhere but the GPT-2 is so large and compute-hungry and I haven't found a fast and cheap way to do this) 
+(Ideally I'd have this running on the cloud somewhere but the GPT-2 is so large and compute-hungry and I haven't found a fast and cheap way to do this)
 
 # Acknowledgements 
 
@@ -9,4 +9,6 @@ So I fine-tuned GPT-2 on a bunch of psychedelic reports on Erowid
 * Matti Vuorre for compiling the wonderful [Erowid dataset](https://mvuorre.github.io/tmasc/articles/erowid/erowid.html)
 * Slightly unrelated but also wanted to mention [this](https://chemicalyouth.org/visualising-erowid/) BEAUTIFUL visualization of Matti's dataset
 
+# Next Steps
 
+Exploring Fabrice Bellard's [Text Synth](https://bellard.org/textsynth/), which is quite fast at GPT-2 inference without GPUs

@@ -13,7 +13,7 @@ So I fine-tuned GPT-2 on a bunch of psychedelic reports on Erowid
 
 * Install package requirements with the command `pip install -r requirements.txt`
 * Download [`pytorch_model.bin`](https://drive.google.com/file/d/1wMf6qgIWTOxx2e4F9wjQv5UUYSLkjJqp/view?usp=sharing) into the `model` folder
-* Run `python app.py` to start Flask app and see generated texts
+* Run `python app.py` to start Flask app and see generated texts at http://127.0.0.1:5000/
 
 ## Next Steps?
 

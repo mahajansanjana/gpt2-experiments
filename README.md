@@ -7,7 +7,7 @@ So I fine-tuned GPT-2 on a bunch of psychedelic reports on Erowid
 ## Acknowledgements 
 
 * Max Woolf for his easy-to-use GPT-2 fine-tuning package, [aitextgen](https://github.com/minimaxir/aitextgen)
-* Matti Vuorre for compiling this wonderful [dataset](https://mvuorre.github.io/tmasc/articles/erowid/erowid.html) of Erowid reports (also want to mention this BEAUTIFUL [visualization](https://chemicalyouth.org/visualising-erowid/) of Matti's dataset)
+* Matti Vuorre for compiling this wonderful [dataset](https://mvuorre.github.io/tmasc/articles/erowid/erowid.html) of Erowid reports (also check out this BEAUTIFUL [visualization](https://chemicalyouth.org/visualising-erowid/) of Matti's dataset)
 
 ## How to Run
 

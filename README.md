@@ -12,15 +12,9 @@ So I fine-tuned GPT-2 on a bunch of psychedelic reports on Erowid
 
 ## How to Run
 
-### Python 3 Requirements
-* transformers==2.9.1
-* pytorch-lightning==0.8.4
-* aitextgen 
-* flask
-
-### Steps 
+* Install package requirements by running `pip install -r requirements.txt`
 * Download [`pytorch_model.bin`](https://drive.google.com/file/d/1wMf6qgIWTOxx2e4F9wjQv5UUYSLkjJqp/view?usp=sharing) into the `model` folder
-* Run `python3 app.py` in the command line to start Flask app and see generated texts!
+* Run `python3 app.py` to start Flask app and see generated texts
 
 ## Next Steps?
 

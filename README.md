@@ -8,13 +8,13 @@ So I fine-tuned GPT-2 on a bunch of psychedelic reports on Erowid
 
 * Max Woolf for his easy-to-use GPT-2 fine-tuning package, [aitextgen](https://github.com/minimaxir/aitextgen)
 * Matti Vuorre for compiling this wonderful [dataset](https://mvuorre.github.io/tmasc/articles/erowid/erowid.html) of Erowid reports
-* Slightly unrelated but also wanted to mention this BEAUTIFUL [visualization](https://chemicalyouth.org/visualising-erowid/) of Matti's dataset
+* (Slightly unrelated but also wanted to mention this BEAUTIFUL [visualization](https://chemicalyouth.org/visualising-erowid/) of Matti's dataset)
 
 ## How to Run
 
 * Install package requirements with the command `pip install -r requirements.txt`
 * Download [`pytorch_model.bin`](https://drive.google.com/file/d/1wMf6qgIWTOxx2e4F9wjQv5UUYSLkjJqp/view?usp=sharing) into the `model` folder
-* Run `python3 app.py` to start Flask app and see generated texts
+* Run `python3 app.py` to start Flask app and see generated texts on local host http://127.0.0.1:5000/
 
 ## Next Steps?
 

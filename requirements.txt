@@ -1,0 +1,5 @@
+aitextgen==0.2.3
+Flask==1.1.2
+pandas==1.0.5
+gensim==3.8.3
+nltk==3.5
